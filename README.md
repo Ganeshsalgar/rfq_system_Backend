@@ -59,4 +59,4 @@ Password: admin123
 | ADMIN | Full access + manage users |
 
 ## Frontend Repository
-👉 [rfq-system-frontend](https://github.com/your-username/rfq-system-frontend)
+👉 [rfq-system-frontend](https://github.com/Ganeshsalgar/rfq_system_Frontend)
